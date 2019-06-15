@@ -137,7 +137,7 @@ ul.box31 a:hover{
 }
 .box41{
     height: 673px;
-    background: url("banner.png") center;
+    background: url("banner.png") center no-repeat;
     border-top:3px solid #3aa747;
 }
 
@@ -236,7 +236,7 @@ div.box6 a:hover{
 ul.box71 li{
     height: 294px;
     width:272px;
-    border:1px solid #000;
+    border:1px solid #878787;
     float: left;
     margin:15px 12.5px 15px 12.5px;
 }
@@ -343,20 +343,20 @@ div.box91 p{
 }
 div.box91 a{
     font-size:14px;
-    color:#f5f5f5;
+    color:#a6a6a6;
 }
 div.box91 span{
     float: left;
     margin:0 auto;
     font-size:14px;
-    color:#f5f5f5;
+    color:#a6a6a6;
     margin-left: 12px;
     margin-right: 12px;
     line-height: 22px;
 }
 .box92{
     text-align: center;
-    color:#f5f5f5;
+    color:#a6a6a6;
 }
 
 
