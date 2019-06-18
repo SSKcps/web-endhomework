@@ -255,7 +255,7 @@ ul.box71 p:hover{
     margin-top:0px;
     font-size:22.14px;
     padding-top:110px;
-    line-height: 50px;
+    line-height: 20px;
 }
 
 ul.box71 p{
@@ -265,6 +265,21 @@ ul.box71 p{
     text-align: center;
     line-height: 26px;
 }
+
+ul.box71 span{
+    display: block;
+    width:40px;
+    height:0px;
+    border:0.5px solid #863936;
+    margin:0 auto;
+    margin-top:20px;
+    display: none;
+}
+
+ul.box71 p:hover span{
+    display:block;
+}
+
 .box72{
     background:url(img1.png) center no-repeat;
 }
